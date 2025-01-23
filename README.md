@@ -4,7 +4,7 @@
   </a>
 </p>
 
-Jing is a passionate GPU software expert and has shipped related products on web browser, desktop, mobile devices and game consoles.
+Jing is a passionate GPU software expert and has shipped GPU software products on browser, desktop, mobile devices and game consoles and data center.
 
 Jing's experience in GPU ranges from `high-level` apps like game engines and webgl visualization, through `mid-level` graphics API tools, to `low-level` GPU profilers.
 
